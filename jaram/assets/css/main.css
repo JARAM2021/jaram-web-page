@@ -622,7 +622,7 @@ input, select, textarea {
 
 	.box {
 		background-color:rgba(255, 255, 255, 0.1); 
-		color: #404040;
+		color: #39454b;
 		/* background-color: rgba(30, 30, 30, 0.05);
 		color: #ffffff; */
 	
@@ -1849,7 +1849,7 @@ input, select, textarea {
 			height: 3em;
 			line-height: 3em;
 			cursor: default;
-			color: #404040;
+			color: #39454b;
 		}
 		
 			#header h1 a {
@@ -1877,7 +1877,7 @@ input, select, textarea {
 
 					#header nav ul li a {
 						display: block;
-						color: #404040;
+						color: #39454b;
 						text-decoration: none;
 						height: 3em;
 						line-height: 3em;
@@ -2051,12 +2051,12 @@ input, select, textarea {
 			.main.style3.primary {
 				background: #ffffff;
 				font-size: 18px;
-				color: #404040;
+				color: #39454b;
 			}
 
 			.main.style3.secondary {
 				background: #f5f6f7;
-				color: #404040;
+				color: #39454b;
 			}
 
 		.main.dark {
